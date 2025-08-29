@@ -1,6 +1,6 @@
 # Data Jobs Dashboard With Power BI.
 
-![Dashboard Page Overview](Images\Image_1.png)
+![Dashboard Page Overview](Image_1.png)
 
 ## Overview.
 This Power BI dashboard provides an interactive and data-driven view of the Data Science job market in 2024, built using real-world job postings collected from leading job sites. The goal of this project is to help job seekers, career changers, and industry professionals gain valuable insights into the current state of the market.
@@ -27,11 +27,11 @@ Drill-Through: To navigate from a high-level summary to a contextual, detailed v
 ## Dashboard Overview
 
 ### Page 1: Market View
-![Dashboard Page 1](Images\Image_1.png)
+![Dashboard Page 1](Image_1.png)
 
 This page showcases key KPIs like total job count, median salaries and top titles to give you a quick understanding of what is happening in the job market at a glance.
 
 ### Page 2: Job title Drill Through
-![Dashboard Page 2](Images\Image_2.png)
+![Dashboard Page 2](Image_2.png)
 
 This is the drop-drive page. From the main dashboard you can drill through to this view to get specific details for a single job title including salary ranges, work-from-home stats and top hiring platforms.
